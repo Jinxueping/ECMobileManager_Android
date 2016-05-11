@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\umeng_sdk.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f215292edd3cea48bea39811c7bc814a09d4481a">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\umeng_sdk_906a1222bc92d2af69a60d95cfc7ac1945d2a992.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\alipay.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0668f39e7366ea40bcac00660fbe0ea7c424f00e">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\alipay_3ff4be17b7b29812bbb33d854e3abc1d2b6e9a67.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_4a82a34d44eb8a53ceeb1addd3e3bd9848bca172.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\exploded-aar\ECMobileAndroid\eventBus\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="105cb6a85d44042c01f21ed3064181f18de2183e">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\ECMobileAndroid-eventBus-unspecified_cdc3a883b7e13fb976cdbadf2f7544d5eea272ba.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\UPPayPluginExPro.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="95b3d8d188aee8dd3d18c25b4ec46bbcdd93824d">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\UPPayPluginExPro_2e1e86af24ecb991319b407a93a61fb27a6bc739.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\exploded-aar\ECMobileAndroid\androidSDK\unspecified\jars\libs\commons-httpclient-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d659bcea3a6e8543dbd8da9db7284e43a4a3ff9">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\commons-httpclient-3.0.1_6467c12800a62970127a3cf9c3cd62e7a22ba491.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\UPPayAssistEx.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="06ff45e2f35db618401097141bb18a8c79994616">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\UPPayAssistEx_3fe4f356e4a28f941eaf501732fa388f70d35856.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\libammsdk_54a6cc67daa0ac471f3bea4f5476b6f3ded784f4.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\commons-httpclient-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\commons-httpclient-3.0.1_4f760704fc443bbd3333960fcee7b0d85a4acd83.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\pushservice-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ff1ada5696df276e1e17ee4fad92aa22c251890">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\pushservice-3.2.0_794fc304ca76effc07fe4c6493a32b312a5b3e25.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\exploded-aar\ECMobileAndroid\androidSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="734b02c30a285d9eb9d0fad4680ffdab4ab0ce74">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\ECMobileAndroid-androidSDK-unspecified_7c5e3beb02e3f08c990985f783800cb3361759bc.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\exploded-aar\ECMobileAndroid\alipay_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="939fc1094b6204ad88c83721f3c33a60c28b4a10">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\ECMobileAndroid-alipay_lib-unspecified_b03511fc477594a0fea358cd239259d9d3be724f.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="06e990ea2d7b7ccd30cea6c5367314d7314d9f40">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\weibosdkcore_1fd7d9ce36a8b58b145b80392aa08cae02a3ffe6.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\Msc_853fd7d90d575694b83f9083b90636f04a99c72c.jar" />
+    </item>
+    <item
+        jar="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\exploded-aar\ECMobileAndroid\androidSDKComponent\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e0562a4680d7882650c50900753301a2e3c9673">
+        <dex dex="F:\Project\ECShop\ECMobileAndroid\android\build\intermediates\pre-dexed\debug\ECMobileAndroid-androidSDKComponent-unspecified_6a838889aa5751f6d7df902b7256899f6c4e7395.jar" />
+    </item>
+
+</items>

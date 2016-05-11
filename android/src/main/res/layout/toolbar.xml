@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@drawable/good_list_bg"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/foot_bg"
+        android:gravity="center" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+           <ImageView
+                android:id="@+id/toolbar_tabonebg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/footer_active_bg"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/toolbar_tabone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="#00000000"
+                android:padding="7dp"
+                android:src="@drawable/tab_home" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+            <ImageView
+                android:id="@+id/toolbar_tabtwobg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/footer_active_bg"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/toolbar_tabtwo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="#00000000"
+                android:padding="7dp"
+                android:src="@drawable/tab_users" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+            <ImageView
+                android:id="@+id/toolbar_tabthreebg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/footer_active_bg"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/toolbar_tabthree"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="#00000000"
+                android:padding="7dp"
+                android:src="@drawable/tab_goods" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+
+            <ImageView
+                android:id="@+id/toolbar_tabfourbg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/footer_active_bg"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/toolbar_tabfour"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="#00000000"
+                android:padding="7dp"
+                android:src="@drawable/tab_profile" />
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

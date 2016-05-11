@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.insthub.ecmobilemanager"
+        minSdkVersion 8
+        targetSdkVersion 17
+
+        testApplicationId "com.insthub.ecmobilemanager.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/alipay.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/Msc.jar')
+    compile files('libs/pushservice-3.2.0.jar')
+    compile files('libs/umeng_sdk.jar')
+    compile files('libs/universal-image-loader-1.8.6-with-sources.jar')
+    compile files('libs/UPPayAssistEx.jar')
+    compile files('libs/UPPayPluginExPro.jar')
+    compile files('libs/weibosdkcore.jar')
+    compile project(':alipay_lib')
+    compile project(':androidSDKComponent')
+    compile project(':androidSDK')
+    compile project(':eventBus')
+    compile files('libs/robotium-solo-5.2.1.jar')
+}
